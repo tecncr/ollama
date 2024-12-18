@@ -11,5 +11,5 @@ docker build \
     --build-arg=VERSION \
     --build-arg=GOFLAGS \
     -f Dockerfile \
-    -t ollama/ollama -t ollama/ollama:$VERSION \
+    -t tecncr/ollama-gtt -t tecncr/ollama-gtt:$VERSION \
     .

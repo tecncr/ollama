@@ -1,5 +1,5 @@
 # Set your variables here.
-REPO="jmorganca/ollama"
+REPO="tecncr/ollama-gtt"
 
 # Check if VERSION is set
 if [[ -z "${VERSION}" ]]; then
